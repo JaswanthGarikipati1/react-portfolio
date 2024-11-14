@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.fb38181f.css",
+    "main.js": "/react-portfolio/static/js/main.281c55dd.js",
+    "static/media/password-manager.png": "/react-portfolio/static/media/password-manager.7c45ffd512c1644e5768.png",
+    "static/media/waste-sorting.jpg": "/react-portfolio/static/media/waste-sorting.0579255ad487ad390751.jpg",
+    "static/media/smart-attendance.png": "/react-portfolio/static/media/smart-attendance.cef949646b046ac89ed5.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.fb38181f.css.map": "/react-portfolio/static/css/main.fb38181f.css.map",
+    "main.281c55dd.js.map": "/react-portfolio/static/js/main.281c55dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb38181f.css",
+    "static/js/main.281c55dd.js"
+  ]
+}
